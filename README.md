@@ -2,4 +2,5 @@
 Anagram Problem
 - spasi diabaikan/symbol
 - huruf saja (alpha)
-- case sensitif
+- case insensitif
+- kalau inputnya sama return true
